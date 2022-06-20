@@ -1,3 +1,7 @@
 đây là commit m1
 
+<<<<<<< HEAD
 đây là commit m3
+=======
+đây là commit b2
+>>>>>>> 3df6427 (b2)
