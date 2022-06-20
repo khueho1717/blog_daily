@@ -1,7 +1,7 @@
 đây là commit m1
 
-<<<<<<< HEAD
+đây là commir của m4
 đây là commit m3
-=======
+đây là commir của m4
 đây là commit b2
->>>>>>> 3df6427 (b2)
+đây là commir của m4
