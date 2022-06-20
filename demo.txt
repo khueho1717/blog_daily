@@ -1,7 +1,9 @@
 đây là commit m1
 
+
 đây là commir của m4
 đây là commit m3
 đây là commir của m4
+đây là commit beta2 v1
 đây là commit b2
 đây là commir của m4
